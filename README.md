@@ -6,7 +6,7 @@ It automatically detects timestamps, dates, temperatures, and battery levels fro
 
 ✅ Tested on **Ubuntu 24.04** with **Python 3.12**  
 ⚡ Supports **GPU acceleration** with **PyTorch (CUDA)** and **PaddleOCR**  
-🛠️ Falls back to **EasyOCR** if PaddleOCR is unavailable  
+🛠️ Falls back to **EasyOCR** if PaddleOCR is unavailable   (Actually defaults to it right now)
 
 ---
 
@@ -171,6 +171,7 @@ The script produces a **CSV file** with columns:
 ## 📜 License
 
 MIT License — free to use and modify.
+
 
 
 
