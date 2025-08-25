@@ -33,7 +33,8 @@ It automatically detects timestamps, dates, temperatures, and battery levels fro
 
 ### 1. Clone the repository
 
-git clone [https://github.com/yourname/plotwatcher-ocr.git](https://github.com/HugoMarkoff/Plotwatcher_OCR.git)
+git clone https://github.com/HugoMarkoff/Plotwatcher_OCR.git
+
 cd plotwatcher-ocr
 
 ### 2. Create a virtual environment (Python 3.12)
@@ -163,4 +164,5 @@ The script produces a **CSV file** with columns:
 ## 📜 License
 
 MIT License — free to use and modify.
+
 
