@@ -140,12 +140,19 @@ The script produces a **CSV file** with columns:
 ## 📈 Example Debug Output
 
 🔤 PLOTWATCHER PROCESSED: 200922AA_001048.jpg
+
    📝 OCR Texts Found: ['PRO', '09:21:26', '52%']
+   
    📅 Filename Date: 2020-09-22
+   
    🔢 Sequence Number: 001048
+   
    ⏰ OCR Time Found: 09:21:26 ✅
+   
    ⏱️  Sequence Interval: 10s [cached]
+   
    🌡️  Temperature: No temperature found
+   
    🔋 Battery Level: 52%
 
 ---
@@ -164,6 +171,7 @@ The script produces a **CSV file** with columns:
 ## 📜 License
 
 MIT License — free to use and modify.
+
 
 
 
