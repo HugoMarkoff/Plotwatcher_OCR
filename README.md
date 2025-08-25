@@ -4,6 +4,8 @@
 This project provides an **OCR-based extractor and analyzer** for **Plotwatcher camera trap images**.  
 It automatically detects timestamps, dates, temperatures, and battery levels from images, and reconstructs **timelapse sequences** even when OCR fails.  
 
+If you need to convert timelapse (TLV) formats look at:  https://github.com/HeyHarry3636/TimeLapseVideo_python 
+
 ✅ Tested on **Ubuntu 24.04** with **Python 3.12**  
 ⚡ Supports **GPU acceleration** with **PyTorch (CUDA)** and **PaddleOCR**  
 🛠️ Falls back to **EasyOCR** if PaddleOCR is unavailable   (Actually defaults to it right now)
@@ -171,6 +173,7 @@ The script produces a **CSV file** with columns:
 ## 📜 License
 
 MIT License — free to use and modify.
+
 
 
 
